@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="generate_button_title">Generate number</string>
+    <string name="main_fragment_name">Main Fragment</string>
+</resources>
